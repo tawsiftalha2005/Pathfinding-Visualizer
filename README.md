@@ -4,7 +4,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-success?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-BFS%20%7C%20DFS%20%7C%20Dijkstra-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-# 🧭 Pathfinding Visualizer in C++
 
 A console-based **Pathfinding Visualizer** built with **C++** that demonstrates how different pathfinding algorithms explore a grid and find a path from a start node to a destination node.
 
